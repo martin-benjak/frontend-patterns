@@ -28,3 +28,19 @@
 body {
     font-family: 'Proxima Nova', Arial, serif;
 }
+
+/* NOTES
+font-face
+- The @font-face rule allows custom fonts to be loaded on a webpage.
+
+ woff
+- support: IE9 and higher
+
+woff2
+- Better Web Font compression (30% and more)
+- support: Chrome, FF, edge
+
+eot
+- support: IE8 and lower;
+
+*/

@@ -1,0 +1,14 @@
+@media (min-width: 40em) {  }
+
+@media all (min-width: 40em) {  }
+
+/*
+- default value of @media is not screen, but all
+- Media queires above have the same meaning
+*/
+
+@media only screen and (min-width: 40em) {  }
+
+/*
+- Media queries above is correct for screens
+*/
