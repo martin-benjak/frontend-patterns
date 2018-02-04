@@ -1,0 +1,3 @@
+
+// A way to download file from server (fonts, css, html, etc.)
+curl -o /Users/benjak/Downloads/file.xxx web-url
